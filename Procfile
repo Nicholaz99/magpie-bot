@@ -1,1 +1,1 @@
-web: python magpie-bot.py
+web: python magpie-bot.py runserver 0.0.0.0:$PORT
