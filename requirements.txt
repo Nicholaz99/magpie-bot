@@ -16,4 +16,5 @@ virtualenv==15.1.0
 Werkzeug==0.14.1
 line-bot-sdk==1.5.0
 BeautifulSoup
+bs4
 lxml
